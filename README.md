@@ -2,8 +2,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 -----
 Create-react-app-carousel
 
-![example1]('public/Rd-me1.png')
-![example2]('public/Rd-me2.png')
+![example1](public/Rd-me1.png)
+![example2](public/Rd-me2.png)
+
 
 
 
