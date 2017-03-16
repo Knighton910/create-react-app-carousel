@@ -23,12 +23,24 @@
   to { transform: rotate(360deg); }
 }
 
-
 .container {
   margin: 0 auto;
-  padding: 40px;
-  width: 80%;
+  padding: auto;
+  width: 50%;
+  height: 400px;
   color: #333;
   background: #419be0;
   margin: 10% auto;
+}
+
+
+.img-1 {
+  content: url('../public/test1.jpg');
+  width: 40%;
+  height: 60%;
+}
+.img-2 {
+  content: url('../public/test2.jpg');
+  width: 40%;
+  height: 60%;
 }
